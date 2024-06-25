@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tecnosamba21
+- 👀 I’m interested in Hardware and Software
+- 🌱 I’m currently learning about C++
+- 📫 My email: sannicolas2121@outlook.com //Write to me!
+- ⚡ Fun fact: I love programming and science

@@ -1,10 +1,18 @@
-# Hi! I'm [@TecnoSamba21](https://github.com/Tecnosamba21/)
+![Hearder](images/github-header-image.png)
 
-## Who am I?
-I'm a ❤code❤ lover, specialy in **software development**💻
+[![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/?r=1)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
 
-## My repos!
+## Welcome to TecnoSamba21!
 
-1. 🐍[Arrays library for python](https://github.com/Tecnosamba21/Arrays-library-for-python): A library for make easier the work with arrays in python
-2. 📝[SamPad](https://github.com/Tecnosamba21/SamPad): An app for write, see and edit txt files with beatiful and style for Windows
-3. 📟[Samba-PowerLevel10k](https://github.com/Tecnosamba21/Samba-PowerLevel10k): A [PowerLevel10k](https://github.com/romkatv/powerlevel10k) theme
+We are a small community of developters that love deploying desktop apps. We specially love **Python** and **C#** programming languages.
+
+## 💻 Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnosamba21&layout=compact)
+

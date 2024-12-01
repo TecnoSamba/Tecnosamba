@@ -12,7 +12,7 @@
 
 We are a small community of developters that love deploying desktop apps. We specially love **Python** and **C#** programming languages.
 
-## 💻 Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnosamba21&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnosamba21&layout=compact&theme=dark)
 
+![Tecnosamba21's GitHub stats](https://github-readme-stats.vercel.app/api?username=tecnosamba21&show_icons=true&theme=dark)

@@ -10,7 +10,7 @@
 
 ## Welcome to TecnoSamba21!
 
-We are a small community of developters that love deploying desktop apps. We specially love **Python** and **C#** programming languages.
+I'm a desktop and web developer that's searching new oportunities to learn every day.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnosamba21&layout=compact&theme=dark)

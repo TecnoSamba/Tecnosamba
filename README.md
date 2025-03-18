@@ -10,7 +10,7 @@
 
 ## Hi! I'm TecnoSamba21
 
-I'm a desktop and web developer that's searching new oportunities to learn every day.
+I'm a desktop and web developer that is searching new oportunities to learn every day.
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnosamba21&layout=compact&theme=dark)

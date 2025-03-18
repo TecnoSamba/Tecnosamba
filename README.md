@@ -8,7 +8,7 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/?r=1)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
 
-## Welcome to TecnoSamba21!
+## Hi! I'm TecnoSamba21
 
 I'm a desktop and web developer that's searching new oportunities to learn every day.
 

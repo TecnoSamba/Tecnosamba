@@ -10,7 +10,7 @@
 
 ## Hi! I'm TecnoSamba
 
-I'm a desktop and web developer that is searching new oportunities to learn every day.
+I'm a fullstack developer and a open source lover ❤️!!
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnosamba&layout=compact&theme=dark)

@@ -1,4 +1,4 @@
-![Hearder](images/github-header-image.png)
+![Header](images/github-header-image.png)
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -8,11 +8,11 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/?r=1)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
 
-## Hi! I'm TecnoSamba21
+## Hi! I'm TecnoSamba
 
 I'm a desktop and web developer that is searching new oportunities to learn every day.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnosamba21&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnosamba&layout=compact&theme=dark)
 
-![Tecnosamba21's GitHub stats](https://github-readme-stats.vercel.app/api?username=tecnosamba21&show_icons=true&theme=dark)
+![Tecnosamba21's GitHub stats](https://github-readme-stats.vercel.app/api?username=tecnosamba&show_icons=true&theme=dark)

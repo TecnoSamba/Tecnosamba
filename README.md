@@ -12,8 +12,13 @@
 
 I'm a fullstack developer and a open source lover ❤️!!
 
+## Languages and Tools ⚒️
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnosamba&layout=compact&theme=dark)
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,vite,react,astro,python,git,go,cs,cpp,bash,linux,arduino" />
+</p>
 
 ## Top Projects 🔝
 

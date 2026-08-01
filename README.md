@@ -24,4 +24,5 @@ I'm a fullstack developer and a open source lover ❤️!!
 
 <a href="https://samjs.dev"><img src="./favicon.png" width=150/></a>
 <a href="https://github.com/tecnosamba/telescopeCSS"><img src="./telescopeCSS.png" width=150/></a>
+<a href="https://pypi.org/project/termcam"><img src="./termcam-logo.jpg" /></a>
 <a href="https://blog-sam.vercel.app"><img src="./samblog.png" width=150/></a>
